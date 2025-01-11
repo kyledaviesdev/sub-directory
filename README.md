@@ -1,23 +1,20 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+My name is Kyle davies I am trying to establish a nice collection of repositories for future use. Ones that I could use in interviews or just for giving friends an idea of what I can do.
 
-{Provide a description of your software}
+This is just a simple Hello World example of what I can do. But if you look closer you might find a secret that can allow for some fun.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+My purpose for this specific example is just to introduce myself as well as give a bit of a peek into what I am capable of with a few minutes of time.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+For this I used github and git hub pages.
 
-{Describe the programming language that you used}
+I used HTML for the webpage and then Javascript to allow the user to interact with the "secret" and lastly just a little bit of CSS just to make it look a little nicer.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [github](https://github.com/)
+* [W3 Schools](https://www.w3schools.com/howto/howto_js_draggable.asp)
