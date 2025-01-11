@@ -1,6 +1,11 @@
 #drag-it {
+    position: absolute;  /* Add this line */
     width: 200px;
     border: solid black 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
 }
 h1 {
     width: fit-content;

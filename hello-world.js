@@ -15,7 +15,7 @@ document.addEventListener('mouseup', () => {
 
 document.addEventListener('mousemove', (e) => {
   if (isDragging) {
-    dragElement.style.left = (e.clientX - offsetX) + 'px';
-    dragElement.style.top = (e.clientY - offsetY) + 'px';
+    dragElement.style.left = (e.clientX - offsetX) + 'px'; 
+    dragElement.style.top = (e.clientY - offsetY) + 'px'; 
   }
 });
